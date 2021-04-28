@@ -1,0 +1,29 @@
+{
+  "name": "bmijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index",
+    "build": "tsc",
+    "test": "jest dist/tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.11",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.0.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "fast-memoize": "^2.5.2",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
