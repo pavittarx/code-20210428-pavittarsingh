@@ -18,8 +18,8 @@ BMI (kg/m^2) = Mass (in Kg) / Height (in M)^2
 
 ## Table for Mapping Values
 
-| Min BMI | Max BMI | BMI Category | Health Risk | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| Min BMI | Max BMI | BMI Category | Health Risk |
+| ------------- | ------------- | ------------- | ------------- |
 | 0    |    18.4   | Underweight         | Malnutrition Risk  | 
 | 18.5 | 24.9      | Normal Weight       | Low Risk           | 
 | 25   | 29.9      | Overweight          | Enhanced Risk      | 
